@@ -1,0 +1,1 @@
+This is for bash-like shells (like zsh, or bash itself)
